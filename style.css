@@ -11,6 +11,13 @@ main{
 
 #container > *:hover{
     background-color: aquamarine;
+    border: 1px solid black;
+    width: 200px;
+    height: auto;
+}
+.square{
+  border: 1px solid black;
+  height: 50px;
 }
 
 /*footer*/
